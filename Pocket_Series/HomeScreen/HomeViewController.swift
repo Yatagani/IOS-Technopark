@@ -3,7 +3,6 @@
 //  Pocket_Series
 //
 //  Created by Влад on 15.04.2020.
-//  Copyright © 2020 Artur Sardaryan. All rights reserved.
 //
 
 import UIKit
